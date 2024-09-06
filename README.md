@@ -4,7 +4,7 @@ Setting up the firebase connection to an existing flutter project in vscode.
 
 1. Prepare workspace
 
-       a. Install the Firebase CLI and log in (You should be able to do it with your email)
+       a. Install the Firebase CLI (https://firebase.google.com/docs/cli) and log in (You should be able to do it with your email)
    
 2. Install and run the FlutterFire CLI
 
